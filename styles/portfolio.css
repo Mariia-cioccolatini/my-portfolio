@@ -11,7 +11,6 @@ body {
 }
 
 h1,
-h3,
 h4,
 h5 {
   color: #e6d5c8;
@@ -22,6 +21,10 @@ h5 {
 h1 {
   font-size: 46px;
   line-height: 1.5;
+}
+
+h3 {
+  color: #1a1c35;
 }
 
 h6 {
@@ -69,6 +72,7 @@ h6 {
 
 .content h3 {
   font-size: 18px;
+  line-height: 1.5;
   font-family: var(--default-font-family);
 }
 
