@@ -26,7 +26,11 @@ h1 {
 h3 {
   color: #1a1c35;
 }
-
+h5 {
+  color: #c2907f;
+  text-align: center;
+  line-height: 1.5;
+}
 h6 {
   color: #e6d5c8;
   font-weight: bold;
